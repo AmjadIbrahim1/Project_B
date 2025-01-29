@@ -5,7 +5,6 @@
 }
 body{
     perspective: 700px;
-    height: 7000px;
     overflow-x: hidden;
     position: relative;
 }
